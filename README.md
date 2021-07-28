@@ -3,7 +3,7 @@
 </div>
   
 <div align="center">
-  <h1>Encontre o parceiro perfeito 🚀</h1>
+  <h1>Astromatch - Encontre o parceiro perfeito :heart:</h1>
 </div>
 
 <p align="center" >
