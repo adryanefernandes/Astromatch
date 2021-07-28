@@ -31,7 +31,7 @@ Aplicação construida para fins educacionais.
 
 ### 💻 Deploy
 O deploy de aplicação pode ser consultado nesse link:
-https://vercel.com/adryanefernandes/astromatch/7EpfWhniCrSrBqgfuCTBeUhu1QDL
+https://astromatch-ashen.vercel.app/
 
 ## ⚙ Tecnologias
 - ReactJS
